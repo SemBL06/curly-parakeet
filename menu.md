@@ -3,4 +3,4 @@
 - hoofdgerecht: vol au vent
 - prijs: 14 euro
 - drank: water
-- bijgerecht: past-eitje ->>>> ASS
+- bijgerecht: past-eitje
