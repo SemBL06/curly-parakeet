@@ -1,5 +1,5 @@
 # Menu
 - soep: pompoensoep
 - hoofdgerecht: stoofvlees
-- prijs: 12 euro
+- prijs: 14 euro
 - drank: water
